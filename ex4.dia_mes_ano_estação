@@ -1,11 +1,8 @@
 dia= int(input("informe o dia que voce naceu :  "))
 mes = int(input("informe o mes que voce naceu :  "))
 ano = int(input(" informe o ano que vocw nasceu "))
-print(f"voce nasceu  {dia}/{mes}/{ano}")
-if mes == 11:
-    print("voce nasceu no outono ")dia= int(input("informe o dia que voce naceu :  "))
-mes = int(input("informe o mes que voce naceu :  "))
-ano = int(input(" informe o ano que vocw nasceu "))
-print(f"voce nasceu  {dia}/{mes}/{ano}")
+print(f"voce nasceu no dia : {dia}" )
+print(f"mes : {mes} novenbro")
+print(f"no ano: {ano}")
 if mes == 11:
     print("voce nasceu no outono ")
